@@ -1,8 +1,6 @@
 # 2021_web_credit_analysis
 
-# Web-Based Credit Analysis System
-
-# Microservices Architecture | Python & PHP Implementation(Project details partially protected under NDA)
+# Web-Based Credit Analysis System (Project details partially protected under NDA)
 
 ## Project Overview
 
